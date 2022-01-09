@@ -1,0 +1,17 @@
+# Table of contents
+
+* [💥 The Law of Metaworld](README.md)
+* [📖 Meta-zodiac](meta-zodiac.md)
+* [⭐ Understanding horoscope](understanding-horoscope/README.md)
+  * [👶 Constellation Classification (Characters)](understanding-horoscope/constellation-classification-characters.md)
+  * [⚛ Epic constellation](understanding-horoscope/epic-constellation.md)
+  * [✡ Zodiacal constellations](understanding-horoscope/zodiacal-constellations.md)
+  * [☯ Northern constellations](understanding-horoscope/northern-constellations.md)
+  * [🕎 Southern Constellation](understanding-horoscope/southern-constellation.md)
+  * [☸ Constellation upgrade](understanding-horoscope/constellation-upgrade.md)
+* [🧚 Get Lucky](get-lucky.md)
+* [💰 Galactic Community Economy](galactic-community-economy.md)
+* [🏢 Decentralized Organization](decentralized-organization.md)
+* [📲 Token Issuance and Distribution](token-issuance-and-distribution.md)
+* [📑 Development Planning](development-planning.md)
+* [💻 Technology](technology.md)
