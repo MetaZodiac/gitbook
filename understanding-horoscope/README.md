@@ -1,8 +1,6 @@
 # ⭐ Understanding horoscope
 
-
-
-![](<../.gitbook/assets/image (11).png>)
+![](../.gitbook/assets/白皮书2.png)
 
 In the vastness of the universe, constellations divide the entire celestial sphere into two major parts: the northern and southern celestial spheres. Depending on whether the majority of each constellation is in the northern or southern , they are called the northern or southern constellations, respectively. In 1922, the International Astronomical Union (IAU) officially accepted the modern list of 88 constellations and in 1928 adopted official constellation boundaries that collectively cover the entire celestial sphere. Any given point in the celestial coordinate system is located in one of the modern constellations. This is scientific.
 
