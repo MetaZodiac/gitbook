@@ -1,8 +1,6 @@
 # 🧚 Get Lucky
 
-
-
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/玩法.png)
 
 In Star of the Meta Realm, whether it's the Zodiac sign, the Northern sign, or the Southern sign, each sign can gain the corresponding luck value and have an unpredictable impact on the situation through powerful matching effects. You can use the NFT horoscope to participate in various gameplay to enhance the luck value of the horoscope and gain more luck.
 
@@ -16,7 +14,7 @@ Then, you need a small amount of BNB for the gas fee and prepare a certain amoun
 
 Finally, consume a certain amount of MW to get your own NFT constellation and use the constellation to get more luck in the game.
 
-### Starlight Blessing&#x20;
+### Starlight Blessing
 
 Players can obtain Lucky through "Starlight Blessing", and different attributes will affect the effect of blessing. Raising the constellation level can effectively obtain more Lucky.
 
@@ -24,11 +22,11 @@ Players can obtain Lucky through "Starlight Blessing", and different attributes 
 
 Players can spawn new constellations through constellation pairing. You only need to have two level 6 or above constellations to pair up by burning LUCKY and have a certain probability of successful pairing. After 3 days of successful pairing, players will have a chance to burn a certain amount of LUCKY to produce a new constellation at random. The success rate of the new constellation will be affected by the luck value of the matching constellation.
 
-### Collecting Starlight&#x20;
+### Collecting Starlight
 
 To collect Starlight, you need to have 3 different zodiac signs or 6 northern signs. The higher the constellation attribute, the higher the probability of success in starlight collection. Players can collect Starlight to obtain Luckily, Ancient Key and Treasure Cabinet Fragment, collecting 4 Star Treasure Cabinet Fragments will gain mysterious wealth. However, please note that collecting Starlight also has the possibility of failure.
 
-### Multiplayer Blessing&#x20;
+### Multiplayer Blessing
 
 Players can participate in the multiplayer blessing game by teaming up, the game requires a group of 12 people, each person must hold a zodiac sign of the same level, and not repeat. The multiplayer blessing game will get luckier compared to the starlight blessing.
 
