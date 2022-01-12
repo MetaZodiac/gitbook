@@ -3,7 +3,7 @@
 * [💥 The Law of Metaworld](README.md)
 * [📖 Meta-zodiac](meta-zodiac.md)
 * [⭐ Understanding horoscope](understanding-horoscope/README.md)
-  * [👶 Constellation Classification (Characters)](understanding-horoscope/constellation-classification-characters.md)
+  * [👶 Constellation Classification](understanding-horoscope/constellation-classification-characters.md)
   * [⚛ Epic constellation](understanding-horoscope/epic-constellation.md)
   * [✡ Zodiacal constellations](understanding-horoscope/zodiacal-constellations.md)
   * [☯ Northern constellations](understanding-horoscope/northern-constellations.md)

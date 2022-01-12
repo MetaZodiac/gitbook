@@ -12,11 +12,11 @@ In addition to the many existing play mechanisms such as redeeming blind boxes, 
 
 Total distribution: 100 billion
 
-Distribution ratio.
+### Distribution ratio.
 
-| IDO                                        | Operations                | Technology                | Market Incentives         | Mobility         | Games                    | Destruction              |
-| ------------------------------------------ | ------------------------- | ------------------------- | ------------------------- | ---------------- | ------------------------ | ------------------------ |
-| <p>0.5%<br><strong></strong>50 million</p> | <p>2% <br>300 million</p> | <p>2% <br>300 million</p> | <p>6% <br>300 million</p> | 29.5% 3.3billion | <p>10% <br>1 billion</p> | <p>50% <br>5 billion</p> |
+| IDO                       | Operations               | Technology               | Market Incentives        | Mobility         | Games                   | Destruction             |
+| ------------------------- | ------------------------ | ------------------------ | ------------------------ | ---------------- | ----------------------- | ----------------------- |
+| <p>0.5%<br>50 million</p> | <p>2%<br>300 million</p> | <p>2%<br>300 million</p> | <p>6%<br>300 million</p> | 29.5% 3.3billion | <p>10%<br>1 billion</p> | <p>50%<br>5 billion</p> |
 
 ### Game Mining
 
@@ -24,15 +24,15 @@ Distribution ratio.
 
 We plan to use the game to earn a portion of the launch Lucky tokens to reward key actions in our ecosystem. Ways to earn Lucky are for example
 
-**Starlight prayers**&#x20;
+**Starlight prayers**
 
-**Constellation matching**&#x20;
+**Constellation matching**
 
-**Collecting starlight**&#x20;
+**Collecting starlight**
 
-**Multiplayer blessings**&#x20;
+**Multiplayer blessings**
 
-**Astrological Divination**&#x20;
+**Astrological Divination**
 
 **Wishing Pool**
 
