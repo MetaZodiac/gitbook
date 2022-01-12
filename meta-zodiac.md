@@ -1,6 +1,6 @@
 # 📖 Meta-zodiac
 
-![](<.gitbook/assets/image (9).png>)
+![](.gitbook/assets/1.png)
 
 Since the dawn of mankind, humans have recorded their stories, myths and legends in the star-studded night sky. No matter what culture you grew up in, the heavens have long been the ultimate story for humans to record their thoughts, beliefs and experiences. Humans have associated groups of stars with their mythological figures or devices, calling them "constellations. In ancient Egypt, the beginning of the year was determined by observing the Kai sunrise of Sirius; in some regions, the ancient technique of determining orientation through stellar observations still survives; and these constellations are widely used in navigation and have been the means of determining the orientation of the sky in almost all civilizations.
 
