@@ -8,7 +8,7 @@ Our goal with Meta Realm Stars is to align incentives between gamers and develop
 
 In addition to the many existing play mechanisms such as redeeming blind boxes, praying for blessings, collecting starlight, constellation matching, and wishing pools, Meta Realm Star is also working with renowned strategy experts to add more Token flow mechanisms from constellation NFT sales, black hole expeditions, interstellar treasure hunts, and many other forms in the future, in conjunction with the community's favorite preferences. With the emergence of innovative mechanisms, Meta Realm Star will establish a healthy financial flow environment so that community players can continue to expand the infinite possibilities in the process of participation.
 
-![](<.gitbook/assets/image (3).png>)
+![](.gitbook/assets/饼盘.png)
 
 Total distribution: 100 billion
 
