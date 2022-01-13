@@ -1,4 +1,4 @@
-# ✡ Zodiacal constellations
+# ♏ Zodiacal constellations
 
 Constellation ：
 

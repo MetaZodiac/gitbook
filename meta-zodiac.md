@@ -1,4 +1,4 @@
-# 📖 Meta-zodiac
+# 📄 Meta-zodiac
 
 ![](.gitbook/assets/1.png)
 

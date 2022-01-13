@@ -1,4 +1,4 @@
-# ⭐ Understanding horoscope
+# 🌟 Understanding horoscope
 
 ![](../.gitbook/assets/白皮书2.png)
 

@@ -1,6 +1,6 @@
-# 🏢 Decentralized Organization
+# 🔗 Decentralized Organization
 
-![](.gitbook/assets/人头图标-01.png)
+![](.gitbook/assets/去中心化组织.png)
 
 Relying on the open technical nature of the blockchain, the meta-world stars will gradually evolve into a decentralized organization owned by the entire online community through Lucky's fair generation mechanism. This process will occur when Lucky is distributed among players and equity holders, and over time our community members will grow, meaning that ownership of the meta-world team becomes less centralized.
 

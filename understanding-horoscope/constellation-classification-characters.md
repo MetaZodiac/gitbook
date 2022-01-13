@@ -1,4 +1,4 @@
-# 👶 Constellation Classification (Characters)
+# 🔮 Constellation Classification
 
 Now, let's start to understand the classification rules of Meta-zodiac.
 
@@ -8,4 +8,3 @@ Notice:
 
 1. The following are all game settings, which are different from reality.
 2. There is no specific explanation for the southern and northern constellations.
-

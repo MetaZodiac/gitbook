@@ -1,4 +1,4 @@
-# ☯ Northern constellations
+# 🔯 Northern constellations
 
 Constellation ：
 

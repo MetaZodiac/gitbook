@@ -1,4 +1,4 @@
-# 💥 The Law of Metaworld
+# 🌎 The Law of Metaworld
 
 Currently, more and more technology companies are discussing and building metaverse. Many technicians see metaverse as a virtual world where a large number of people can gather to play, work and socialize. They believe that the metaverse is about to become a collection of digital worlds where all goods can be manufactured and priced, and they believe that this realism will provide users with a better metaverse experience.
 

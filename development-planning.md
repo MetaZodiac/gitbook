@@ -1,4 +1,4 @@
-# 📑 Development Planning
+# 🚀 Development Planning
 
 The original intention of the Metaworld team is to integrate different digital worlds corresponding to the real world, so that virtual items can be benchmarked against the actual value and make these items truly part of the metaverse . So we combine the scientific and mysterious Constellation using blockchain technology to build into the future metaverse ecology corresponding to the NFT digital star. The goal is to create an open source, tradable metaverse digital interactive platform in the future, which players can use to interact with the entire universe of Meta-zodiac in various forms of communication such as social networking, trading market, constellation achievements, and constellation achievements.
 

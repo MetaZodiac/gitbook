@@ -1,4 +1,4 @@
-# 📲 Token Issuance and Distribution
+# 🪙 Token Issuance and Distribution
 
 ![](../.gitbook/assets/循环图.png)
 

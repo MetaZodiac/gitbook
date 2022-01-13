@@ -1,4 +1,4 @@
-# 👃 Southern Constellation
+# ✡ Southern Constellation
 
 Constellation ：
 

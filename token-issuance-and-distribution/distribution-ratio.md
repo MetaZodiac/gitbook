@@ -1,4 +1,4 @@
-# 😀 Distribution ratio
+# 🧮 Distribution ratio
 
 ![](../.gitbook/assets/饼盘.png)
 
