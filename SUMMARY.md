@@ -4,7 +4,7 @@
 * [📖 Meta-zodiac](meta-zodiac.md)
 * [⭐ Understanding horoscope](understanding-horoscope/README.md)
   * [👶 Constellation Classification](understanding-horoscope/constellation-classification-characters.md)
-  * [🕎 Southern Constellation](understanding-horoscope/southern-constellation.md)
+  * [😁 Southern Constellation](understanding-horoscope/southern-constellation.md)
   * [☯ Northern constellations](understanding-horoscope/northern-constellations.md)
   * [✡ Zodiacal constellations](understanding-horoscope/zodiacal-constellations.md)
   * [⚛ Epic constellation](understanding-horoscope/epic-constellation.md)
