@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💥 The Law of Metaworld](README.md)
+* [🌎 The Law of Metaworld](README.md)
 * [📖 Meta-zodiac](meta-zodiac.md)
 * [⭐ Understanding horoscope](understanding-horoscope/README.md)
   * [👶 Constellation Classification](understanding-horoscope/constellation-classification-characters.md)
