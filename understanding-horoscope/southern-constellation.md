@@ -8,6 +8,6 @@ Rarity ： 82.5%
 
 Quantity ： 48
 
-![](<../.gitbook/assets/image (10).png>)
+![](../.gitbook/assets/血条1.png)
 
 Southern Constellation is the most common constellation and contains a small amount of energy (the ability to obtain LUCKY), which can be obtained through the lucky box. The 5 attributes of love, career, wealth, health and luck of this type of constellation are all low.
