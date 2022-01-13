@@ -1,8 +1,8 @@
-# 🧚 Get Lucky
+# 💰 Get Lucky
 
 ![](.gitbook/assets/玩法.png)
 
-In Star of the Meta Realm, whether it's the Zodiac sign, the Northern sign, or the Southern sign, each sign can gain the corresponding luck value and have an unpredictable impact on the situation through powerful matching effects. You can use the NFT horoscope to participate in various gameplay to enhance the luck value of the horoscope and gain more luck.
+In Meta-zodiac, whether it's the Zodiac sign, the Northern sign, or the Southern sign, each sign can gain the corresponding luck value and have an unpredictable impact on the situation through powerful matching effects. You can use the NFT constellation to participate in various gameplay to enhance the luck value of the constellation and gain more lucky.
 
 ### Lucky Magic Box
 
