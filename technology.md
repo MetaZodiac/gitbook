@@ -8,6 +8,6 @@ While we require high technical standards for our platform, we believe that the 
 
 ### Metaworld Chain BSC Side Chain
 
-![](.gitbook/assets/技术.png)
+![](.gitbook/assets/WechatIMG1483.png)
 
 An innovative BSC public chain based on the adopted PoSA (Proof of Stake Authority) consensus algorithm and its combination of the functional advantages of the Delegated Proof of Stake (DPoS) and Proof of Authority (PoA) mechanisms. We are in the process of creating a Meta World Chain, an ethereum-related sidechain made specifically for the Meta World Code, and we are looking for talented partners in traditional gaming, crypto and irreplaceable tokens from the community's resumes, to use the BSC's compatibility with the existing Ether Virtual Machine EVM ( Ethereum Virtual Machine) to develop a truly decentralized sidechain that falls under the laws of the meta-world. These excellent partners from the community will also serve as the validators of Meta World Chain network and build the future ecology of Meta World together.
