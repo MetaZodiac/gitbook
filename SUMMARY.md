@@ -15,3 +15,4 @@
 * [📲 Token Issuance and Distribution](token-issuance-and-distribution.md)
 * [📑 Development Planning](development-planning.md)
 * [💻 Technology](technology.md)
+* [😀 Distribution ratio](distribution-ratio.md)
