@@ -1,6 +1,6 @@
 # 😀 Distribution ratio
 
-![](.gitbook/assets/饼盘.png)
+![](../.gitbook/assets/饼盘.png)
 
 Total distribution: 100 billion
 

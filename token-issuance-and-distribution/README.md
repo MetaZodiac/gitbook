@@ -1,6 +1,6 @@
 # 📲 Token Issuance and Distribution
 
-![](.gitbook/assets/循环图.png)
+![](../.gitbook/assets/循环图.png)
 
 **MW is a BSC governance token issued by the Metaworld team to enforce the Metaworld laws, through which MW holders can pledge their tokens and participate in key governance votes for all projects in the Metaworld ecosystem. And as a reward, they will also be rewarded accordingly in projects and games. In Meta-zodiac, players can then earn Lucky while playing various games and through user-generated content programs.**
 
