@@ -13,6 +13,6 @@
 * [💰 Galactic Community Economy](galactic-community-economy.md)
 * [🏢 Decentralized Organization](decentralized-organization.md)
 * [📲 Token Issuance and Distribution](token-issuance-and-distribution.md)
+* [😀 Distribution ratio](distribution-ratio.md)
 * [📑 Development Planning](development-planning.md)
 * [💻 Technology](technology.md)
-* [😀 Distribution ratio](distribution-ratio.md)
