@@ -9,7 +9,7 @@
   * [✡ Zodiacal constellations](understanding-horoscope/zodiacal-constellations.md)
   * [⚛ Epic constellation](understanding-horoscope/epic-constellation.md)
   * [☸ Constellation upgrade](understanding-horoscope/constellation-upgrade.md)
-* [💰 Get Lucky](get-lucky.md)
+* [💝 Get Lucky](get-lucky.md)
 * [💰 Galactic Community Economy](galactic-community-economy.md)
 * [🏢 Decentralized Organization](decentralized-organization.md)
 * [📲 Token Issuance and Distribution](token-issuance-and-distribution/README.md)
