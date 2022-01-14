@@ -38,7 +38,7 @@ As a Decentralized Autonomous Organization open to the entire network, we want m
 
 ### Mobility
 
-When Meta Realm Stars publicly issues Constellation NFT, 29.5% of the issue volume of MW will be invested in liquidity, creating a liquid trading pool of incredible volume. We believe that good liquidity facilitates the player discovery of value, which is important for the development of MW and a key step towards maturity. This will trade for maximum maneuverability space for MW owners.
+When the Metaworld organization publicly issues the Constellation NFT, 29.5% of the issue volume of MW will be invested in liquidity, creating a liquid trading pool of incredible volume. We believe that good liquidity facilitates the player discovery of value, which is important for the development of MW and a key step towards maturity. This will trade for maximum maneuverability space for MW owners.
 
 ### Destruction
 
@@ -46,8 +46,8 @@ To ensure an orderly and steady increase in token value, we have set up a comple
 
 ### Technical Team
 
-The technical team is the core of Meta Realm Stars, and they contribute to the perfect functioning of the entire ecosystem at the technical level, both in the early stages of construction and in the later stages of maintenance, they are crucial. That's why we award 2% of the release volume to each of our technical team members.
+The technical team is the core of Metaworld law, and they contribute to the perfect functioning of the entire ecosystem at the technical level, both in the early stages of construction and in the later stages of maintenance, they are crucial. That's why we award 2% of the release volume to each of our technical team members.
 
 ### Operation Team
 
-The market operation of Meta World Star will be handed over to a well-known operation team to take care of the market, and we have divided 2% of the issue volume of tokens to them, this is to guarantee that Meta World Star will be strongly promoted in the future ecological development, and we believe they will guarantee the smooth running of the work of Meta World Ecology.
+The market operation of Meta-zodiac will be handed over to a well-known operation team to take care of the market, and we have divided 2% of the issue volume of tokens to them, this is to guarantee that Meta-zodiac will be strongly promoted in the future ecological development, and we believe they will guarantee the smooth running of the work of Meta World Ecology.
