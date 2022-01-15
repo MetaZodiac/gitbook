@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/饼盘.png)
 
-Total distribution: 100 billion
+Total distribution: 10 billion
 
 Distribution ratio.
 
