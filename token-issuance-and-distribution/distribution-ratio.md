@@ -8,9 +8,9 @@ Distribution ratio.
 
 
 
-| IDO                       | Operations               | Technology               | Market Incentives        | Mobility         | Games                   | Destruction             |
-| ------------------------- | ------------------------ | ------------------------ | ------------------------ | ---------------- | ----------------------- | ----------------------- |
-| <p>0.5%<br>50 million</p> | <p>2%<br>300 million</p> | <p>2%<br>300 million</p> | <p>6%<br>300 million</p> | 29.5% 3.3billion | <p>10%<br>1 billion</p> | <p>50%<br>5 billion</p> |
+| IDO                        | Operations              | Technology              | Market Incentives       | Mobility          | Games                   | Destruction             |
+| -------------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------- | ----------------------- | ----------------------- |
+| <p>0.5%<br>0.05billion</p> | <p>2%<br>0.2billion</p> | <p>2%<br>0.2billion</p> | <p>6%<br>0.6billion</p> | 29.5% 2.95billion | <p>10%<br>1 billion</p> | <p>50%<br>5 billion</p> |
 
 ### Game Mining
 
