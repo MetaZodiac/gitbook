@@ -10,7 +10,6 @@
   * [✡ Southern Constellation](understanding-horoscope/southern-constellation.md)
   * [🌠 Constellation upgrade](understanding-horoscope/constellation-upgrade.md)
 * [💰 Get Lucky](get-lucky.md)
-* [Page 1](page-1.md)
 * [🚩 Galactic Community Economy](galactic-community-economy.md)
 * [🔗 Decentralized Organization](decentralized-organization.md)
 * [🪙 Token Issuance and Distribution](token-issuance-and-distribution/README.md)
