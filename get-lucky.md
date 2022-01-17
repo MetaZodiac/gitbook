@@ -14,9 +14,43 @@ Then, you need a small amount of BNB for the gas fee and prepare a certain amoun
 
 Finally, consume a certain amount of MW to get your own NFT constellation and use the constellation to get more luck in the game.
 
-### Starlight Blessing
+### **Starlight prayer**
 
-Players can obtain Lucky through "Starlight Blessing", and different attributes will affect the effect of blessing. Raising the constellation level can effectively obtain more Lucky.
+After all constellations are authorized by the user, they can perform starlight prayers in the prayer field and receive Lucky rewards. All Constellation can get 96 Lucky by praying every day. The amount of Lucky obtained each day may also be affected by unexpected events, such as the formation of black holes, supernova explosions, and the collapse of the universe.
+
+&#x20;
+
+Of course, different levels of constellations will also affect the effect of praying for Lucky. Level is one of the most important attributes of a constellation. Increasing the level of a constellation can not only increase the speed of collecting Lucky, but also reduce the impact of interstellar accidents. Therefore, increasing the constellation level is an effective way to get more Lucky. The higher the level, the more Lucky you get.
+
+&#x20;
+
+The constellations obtained by the lucky box are all level 1. If we need to upgrade the level, we need to consume a certain amount of MW and Lucky to upgrade the level of the constellation.
+
+Calculation of Constellation Upgrade:
+
+&#x20;
+
+| Level | <p>Number of</p><p>LUCKY required</p> | <p>Number of</p><p>MW required</p> | <p>Collection</p><p>speed</p> | Reduce bad effects | Success rate | Failure consequences（-1 means downgrade by 1） |
+| :---: | ------------------------------------- | ---------------------------------- | ----------------------------- | ------------------ | ------------ | --------------------------------------------- |
+|  1-2  |  300                                  | 0                                  | +20%                          | -5%                | 99%          | -                                             |
+|  2-3  |  300                                  | 0                                  | +20%                          | -15%               | 93%          | -                                             |
+|  3-4  | 300                                   | 10                                 | +20%                          | -25%               | 86%          | -1                                            |
+|  4-5  | 300                                   | 10                                 | +20%                          | -35%               | 78%          | -2                                            |
+|  5-6  | 300                                   | 10                                 | +20%                          | -45%               | 67%          | -3                                            |
+|  6-7  | 300                                   | 10                                 | +20%                          | -55%               | 57%          | -4                                            |
+|  7-8  | 300                                   | 10                                 | +20%                          | -65%               | 45%          | -5                                            |
+|  8-9  | 300                                   | 10                                 | +20%                          | -75%               | 38%          | -6                                            |
+|  9-10 | 300                                   | 10                                 | +20%                          | -85%               | 30%          | -7                                            |
+| 10-11 | 300                                   | 10                                 | +20%                          | -95%               | 25%          | -8                                            |
+| 11-12 |  300                                  | 10                                 | +20%                          | 忽视影响               | 20%          | -9                                            |
+
+&#x20;
+
+&#x20;Notice:
+
+1\. Please note that there is a possibility of failure when upgrading a constellation. Failure to upgrade will cause the constellation to be downgraded.
+
+2\. 90% of the MW and Lucky consumed by the upgrade will be destroyed, and 10% will enter the Wishing Pool.
 
 ### Constellation Matching
 
