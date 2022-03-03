@@ -16,7 +16,7 @@ In April 2021, we started to finalize the Meta-zodiac project and set up a profe
 
 ### Community Building
 
-In July 2021, we launched the community recruitment program for Metastar, which strengthened the community of Metastar.
+In July 2021, we launched the community recruitment program for Meta-Zodiac, which strengthened the community of Metastar.
 
 ### Genesis NFT
 

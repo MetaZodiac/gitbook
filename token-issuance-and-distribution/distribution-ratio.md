@@ -38,7 +38,7 @@ As a Decentralized Autonomous Organization open to the entire network, we want m
 
 ### Mobility
 
-When the Metaworld organization publicly issues the Constellation NFT, 10% of the issue volume of MW will be invested in liquidity, creating a liquid trading pool of incredible volume. We believe that good liquidity facilitates the player discovery of value, which is important for the development of MW and a key step towards maturity. This will trade for maximum maneuverability space for MW owners.
+When the Metaworld organization publicly issues the Meta-Zodiac NFT, 10% of the issue volume of MW will be invested in liquidity, creating a liquid trading pool of incredible volume. We believe that good liquidity facilitates the player discovery of value, which is important for the development of MW and a key step towards maturity. This will trade for maximum maneuverability space for MW owners.
 
 ### Destruction
 
