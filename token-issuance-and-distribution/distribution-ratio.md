@@ -1,20 +1,20 @@
 # 🧮 Distribution ratio
 
-![](../.gitbook/assets/饼盘.png)
+![](<../.gitbook/assets/饼盘 (2).png>)
 
-Total distribution: 10 billion
+Total distribution: 4200000
 
 Distribution ratio.
 
 
 
-| IDO                        | Operations              | Technology              | Market Incentives       | Mobility                        | Games                   | Destruction             |
-| -------------------------- | ----------------------- | ----------------------- | ----------------------- | ------------------------------- | ----------------------- | ----------------------- |
-| <p>0.5%<br>0.05billion</p> | <p>2%<br>0.2billion</p> | <p>2%<br>0.2billion</p> | <p>6%<br>0.6billion</p> | <p>29.5% </p><p>2.95billion</p> | <p>10%<br>1 billion</p> | <p>50%<br>5 billion</p> |
+| Genesis NFT             | Operations         | Technology         | Market Incentives   | Mobility                 | Games                   | Destruction           |
+| ----------------------- | ------------------ | ------------------ | ------------------- | ------------------------ | ----------------------- | --------------------- |
+| <p>13.05%<br>548100</p> | <p>2%<br>84000</p> | <p>2%<br>84000</p> | <p>4%<br>168000</p> | <p>10% </p><p>420000</p> | <p>18.95%<br>795900</p> | <p>50%<br>2100000</p> |
 
 ### Game Mining
 
-10% of the issue volume can be earned by participating in the game. The goal of this is to encourage players across the network to discover token rewards in MetaZodiac and to grant that fractional ownership and shares to active players of MetaZodiac.
+18.95% of the issue volume can be earned by participating in the game. The goal of this is to encourage players across the network to discover token rewards in MetaZodiac and to grant that fractional ownership and shares to active players of MetaZodiac.
 
 We plan to use the game to earn a portion of the launch Lucky tokens to reward key actions in our ecosystem. Ways to earn Lucky are for example
 
@@ -34,11 +34,11 @@ Players earn Lucky tokens through simple gameplay. Players bring value to the en
 
 ### Marketplace Incentives
 
-As a Decentralized Autonomous Organization open to the entire network, we want more active users to join our ecosystem, and as an incentive, we have decided to award 6% of the issue as a share of the support market to those community players who contribute to the market.
+As a Decentralized Autonomous Organization open to the entire network, we want more active users to join our ecosystem, and as an incentive, we have decided to award 4% of the issue as a share of the support market to those community players who contribute to the market.
 
 ### Mobility
 
-When the Metaworld organization publicly issues the Constellation NFT, 29.5% of the issue volume of MW will be invested in liquidity, creating a liquid trading pool of incredible volume. We believe that good liquidity facilitates the player discovery of value, which is important for the development of MW and a key step towards maturity. This will trade for maximum maneuverability space for MW owners.
+When the Metaworld organization publicly issues the Constellation NFT, 10% of the issue volume of MW will be invested in liquidity, creating a liquid trading pool of incredible volume. We believe that good liquidity facilitates the player discovery of value, which is important for the development of MW and a key step towards maturity. This will trade for maximum maneuverability space for MW owners.
 
 ### Destruction
 

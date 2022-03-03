@@ -8,7 +8,7 @@ In Meta-zodiac, whether it's the Zodiac sign, the Northern sign, or the Southern
 
 Welcome to Meta-zodiac. This is an open Metaverse Constellation NFT game, relying on the decentralized mechanism setting, players of any background can open the lucky magic box fairly in the world of Meta-zodiac to get their own exclusive constellation NFT. In the process of opening the box, you need to consume a certain amount of MW as energy. Each opening will produce constellations with random rarity and attributes. Each wallet address can open a maximum of 6 lucky boxes per day. And when you collect more NFTs with different attributes, you will find that the various magical powers of the constellations will bring you a very diverse range of luck. And these fortunes will bring you about love, career, health, wealth and many other aspects of improvement. Next, please open your lucky magic box.
 
-First of all, please prepare a wallet that supports Coin Smart Chain (BSC).
+First of all, please prepare a wallet that supports Binance Smart Chain (BSC).
 
 Then, you need a small amount of BNB for the gas fee and prepare a certain amount of MW.
 
@@ -32,17 +32,17 @@ Calculation of Constellation Upgrade:
 
 | Level | <p>Number of</p><p>LUCKY required</p> | <p>Number of</p><p>MW required</p> | <p>Collection</p><p>speed</p> | Reduce bad effects | Success rate | Failure consequences（-1 means downgrade by 1） |
 | :---: | :-----------------------------------: | :--------------------------------: | :---------------------------: | :----------------: | :----------: | :-------------------------------------------: |
-|  1-2  |                   300                 |                  0                 |              +20%             |         -5%        |      99%     |                       -                       |
-|  2-3  |                   300                 |                  0                 |              +20%             |        -15%        |      93%     |                       -                       |
-|  3-4  |                  300                  |                 10                 |              +20%             |        -25%        |      86%     |                       -1                      |
-|  4-5  |                  300                  |                 10                 |              +20%             |        -35%        |      78%     |                       -2                      |
-|  5-6  |                  300                  |                 10                 |              +20%             |        -45%        |      67%     |                       -3                      |
-|  6-7  |                  300                  |                 10                 |              +20%             |        -55%        |      57%     |                       -4                      |
-|  7-8  |                  300                  |                 10                 |              +20%             |        -65%        |      45%     |                       -5                      |
-|  8-9  |                  300                  |                 10                 |              +20%             |        -75%        |      38%     |                       -6                      |
-|  9-10 |                  300                  |                 10                 |              +20%             |        -85%        |      30%     |                       -7                      |
-| 10-11 |                  300                  |                 10                 |              +20%             |        -95%        |      25%     |                       -8                      |
-| 11-12 |                   300                 |                 10                 |              +20%             |          0         |      20%     |                       -9                      |
+|  1-2  |                   30                  |                  0                 |              +20%             |         -5%        |      99%     |                       -                       |
+|  2-3  |                   30                  |                  0                 |              +20%             |        -15%        |      93%     |                       -                       |
+|  3-4  |                   30                  |                 10                 |              +20%             |        -25%        |      86%     |                       -1                      |
+|  4-5  |                   30                  |                 10                 |              +20%             |        -35%        |      78%     |                       -2                      |
+|  5-6  |                   30                  |                 10                 |              +20%             |        -45%        |      67%     |                       -3                      |
+|  6-7  |                   30                  |                 10                 |              +20%             |        -55%        |      57%     |                       -4                      |
+|  7-8  |                   30                  |                 10                 |              +20%             |        -65%        |      45%     |                       -5                      |
+|  8-9  |                   30                  |                 10                 |              +20%             |        -75%        |      38%     |                       -6                      |
+|  9-10 |                   30                  |                 10                 |              +20%             |        -85%        |      30%     |                       -7                      |
+| 10-11 |                   30                  |                 10                 |              +20%             |        -95%        |      25%     |                       -8                      |
+| 11-12 |                   30                  |                 10                 |              +20%             |          0         |      20%     |                       -9                      |
 
 &#x20;
 

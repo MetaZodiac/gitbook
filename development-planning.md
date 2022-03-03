@@ -18,17 +18,17 @@ In April 2021, we started to finalize the Meta-zodiac project and set up a profe
 
 In July 2021, we launched the community recruitment program for Metastar, which strengthened the community of Metastar.
 
-### IDO
+### Genesis NFT
 
-Meta World Star plans to launch IDO in early 2022, we will open 3 IDOs one after another, all of you will have the opportunity to exchange your Token assets for our MW tokens. 3 IDOs with 0.5% of the total issue volume.
+Meta Zodiac plans to openly sell Genesis NFT to users around the world in March 2022. Genesis NFT will be sold in three batches, and everyone will have the opportunity to purchase our Genesis NFT with Token assets.
 
 ### Transaction Pool
 
-In February 2022, we will establish a trading pool at Pancake Swap to open up trading of MW Token/USDT
+In April 2022, we will establish a trading pool at Pancake Swap to open up trading of MW Token/USDT
 
 ### Games
 
-In April 2022, We will launch more gameplay such as Lucky Box, Prayer Blessing, Collecting Starlight, Astrology Matching, Wishing Pool, and more。
+In Q3 2022, We will launch more gameplay such as Lucky Box, Prayer Blessing, Collecting Starlight, Astrology Matching, Wishing Pool, and more。
 
 ### Meta-zodiac 2.0
 
