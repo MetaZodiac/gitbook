@@ -16,15 +16,15 @@ In April 2021, we started to finalize the Meta-zodiac project and set up a profe
 
 ### Community Building
 
-In July 2021, we launched the community recruitment program for Meta-Zodiac, which strengthened the community of Metastar.
+In October 2021, we launched the community recruitment program for Meta-Zodiac, which strengthened the community of Metastar.
 
 ### Genesis NFT
 
-Meta Zodiac plans to openly sell Genesis NFT to users around the world in March 2022. Genesis NFT will be sold in three batches, and everyone will have the opportunity to purchase our Genesis NFT with Token assets.
+Meta Zodiac plans to openly sell Genesis NFT to users around the world in April 2022. Genesis NFT will be sold in three batches, and everyone will have the opportunity to purchase our Genesis NFT with Token assets.
 
 ### Transaction Pool
 
-In April 2022, we will establish a trading pool at Pancake Swap to open up trading of MW Token/USDT
+In May 2022, we will establish a trading pool at Pancake Swap to open up trading of MW Token/USDT
 
 ### Games
 
@@ -32,4 +32,4 @@ In Q3 2022, We will launch more gameplay such as Lucky Box, Prayer Blessing, Col
 
 ### Meta-zodiac 2.0
 
-In October 2022, we plan to launch an upgraded version of Meta-zodiac, with an app that adapts to the metaverse ecosystem.
+In December 2022, we plan to launch an upgraded version of Meta-zodiac, with an app that adapts to the metaverse ecosystem.
