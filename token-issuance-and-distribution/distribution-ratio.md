@@ -16,7 +16,7 @@ Distribution ratio.
 
 ### Game Mining
 
-18.95% of the issue volume can be earned by participating in the game. The goal of this is to encourage players across the network to discover token rewards in MetaZodiac and to grant that fractional ownership and shares to active players of MetaZodiac.
+25.24% of the issue volume can be earned by participating in the game. The goal of this is to encourage players across the network to discover token rewards in MetaZodiac and to grant that fractional ownership and shares to active players of MetaZodiac.
 
 We plan to use the game to earn a portion of the launch Lucky tokens to reward key actions in our ecosystem. Ways to earn Lucky are for example
 
