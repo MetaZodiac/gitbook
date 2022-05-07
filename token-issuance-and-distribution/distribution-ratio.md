@@ -1,6 +1,8 @@
 # 🧮 Distribution ratio
 
-![](<../.gitbook/assets/饼盘 (2).png>)
+
+
+![](../.gitbook/assets/WechatIMG38.png)
 
 Total distribution: 4200000
 
@@ -8,9 +10,9 @@ Distribution ratio.
 
 
 
-| Genesis NFT             | Operations         | Technology         | Market Incentives   | Mobility                 | Games                   | Destruction           |
-| ----------------------- | ------------------ | ------------------ | ------------------- | ------------------------ | ----------------------- | --------------------- |
-| <p>13.05%<br>548100</p> | <p>2%<br>84000</p> | <p>2%<br>84000</p> | <p>4%<br>168000</p> | <p>10% </p><p>420000</p> | <p>18.95%<br>795900</p> | <p>50%<br>2100000</p> |
+| IDO                    | Operations         | Technology          | Market Incentives   | Mobility                 | Games                    | Destruction           |
+| ---------------------- | ------------------ | ------------------- | ------------------- | ------------------------ | ------------------------ | --------------------- |
+| <p>4.76%<br>200000</p> | <p>2%<br>84000</p> | <p>3%<br>126000</p> | <p>5%<br>210000</p> | <p>10% </p><p>420000</p> | <p>25.24%<br>1060000</p> | <p>50%<br>2100000</p> |
 
 ### Game Mining
 
@@ -34,7 +36,7 @@ Players earn Lucky tokens through simple gameplay. Players bring value to the en
 
 ### Marketplace Incentives
 
-As a Decentralized Autonomous Organization open to the entire network, we want more active users to join our ecosystem, and as an incentive, we have decided to award 4% of the issue as a share of the support market to those community players who contribute to the market.
+As a Decentralized Autonomous Organization open to the entire network, we want more active users to join our ecosystem, and as an incentive, we have decided to award 5% of the issue as a share of the support market to those community players who contribute to the market.
 
 ### Mobility
 
@@ -46,7 +48,7 @@ To ensure an orderly and steady increase in token value, we have set up a comple
 
 ### Technical Team
 
-The technical team is the core of Metaworld law, and they contribute to the perfect functioning of the entire ecosystem at the technical level, both in the early stages of construction and in the later stages of maintenance, they are crucial. That's why we award 2% of the release volume to each of our technical team members.
+The technical team is the core of Metaworld law, and they contribute to the perfect functioning of the entire ecosystem at the technical level, both in the early stages of construction and in the later stages of maintenance, they are crucial. That's why we award 3% of the release volume to each of our technical team members.
 
 ### Operation Team
 
