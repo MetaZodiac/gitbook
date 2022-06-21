@@ -4,27 +4,27 @@ The original intention of the Metaworld team is to integrate different digital w
 
 ## Concept Release
 
-In October 2019, we released the Metaworld Law concept in major technical forums, and although the market did not have enough knowledge of the metaverse at that time, we still gained a lot of attention as we spent months working continuously to introduce it to our followers, which was the beginning of what allowed Meta-zodiac to grow.
+In October 2020, we released the Metaworld Law concept in major technical forums, and although the market did not have enough knowledge of the metaverse at that time, we still gained a lot of attention as we spent months working continuously to introduce it to our followers, which was the beginning of what allowed Meta-zodiac to grow.
 
 ### Angel Investment
 
-In May 2020, we released an investment call for the Metaworld Law project, and after several months, raised 1600 ETH
+In May 2021, we released an investment call for the Metaworld Law project, and after several months, raised 1600 ETH
 
 ### Project Development
 
-In April 2021, we started to finalize the Meta-zodiac project and set up a professional development team to start the development of the game
+In October 2021, we started to finalize the Meta-zodiac project and set up a professional development team to start the development of the game
 
 ### Community Building
 
-In October 2021, we launched the community recruitment program for Meta-Zodiac, which strengthened the community of Metastar.
+In February 2022 we launched the community recruitment program for Meta-Zodiac, which strengthened the community of Metastar.
 
 ### Genesis NFT
 
-Meta Zodiac plans to openly sell Genesis NFT to users around the world in April 2022. Genesis NFT will be sold in three batches, and everyone will have the opportunity to purchase our Genesis NFT with Token assets.
+Meta Zodiac plans to openly sell Genesis NFT to users around the world in June 2022. Genesis NFT will be sold in three batches, and everyone will have the opportunity to purchase our Genesis NFT with Token assets.
 
 ### Transaction Pool
 
-In May 2022, we will establish a trading pool at Pancake Swap to open up trading of MW Token/USDT
+At the end of June 2022, we will establish a trading pool on Pancake Swap and open MW Token/USDT trading
 
 ### Games
 
