@@ -10,13 +10,13 @@ Distribution ratio.
 
 
 
-| IDO                    | Operations         | Technology          | Market Incentives   | Mobility                 | Games                    | Destruction           |
-| ---------------------- | ------------------ | ------------------- | ------------------- | ------------------------ | ------------------------ | --------------------- |
-| <p>4.76%<br>200000</p> | <p>2%<br>84000</p> | <p>3%<br>126000</p> | <p>5%<br>210000</p> | <p>10% </p><p>420000</p> | <p>25.24%<br>1060000</p> | <p>50%<br>2100000</p> |
+| Operations         | Technology          | Market Incentives   | Mobility               | Games                 | Destruction           |
+| ------------------ | ------------------- | ------------------- | ---------------------- | --------------------- | --------------------- |
+| <p>2%<br>84000</p> | <p>3%<br>126000</p> | <p>4%<br>168000</p> | <p>1% </p><p>42000</p> | <p>40%<br>1680000</p> | <p>50%<br>2100000</p> |
 
 ### Game Mining
 
-25.24% of the issue volume can be earned by participating in the game. The goal of this is to encourage players across the network to discover token rewards in MetaZodiac and to grant that fractional ownership and shares to active players of MetaZodiac.
+40% of the issue volume can be earned by participating in the game. The goal of this is to encourage players across the network to discover token rewards in MetaZodiac and to grant that fractional ownership and shares to active players of MetaZodiac.
 
 We plan to use the game to earn a portion of the launch Lucky tokens to reward key actions in our ecosystem. Ways to earn Lucky are for example
 
@@ -36,11 +36,11 @@ Players earn Lucky tokens through simple gameplay. Players bring value to the en
 
 ### Marketplace Incentives
 
-As a Decentralized Autonomous Organization open to the entire network, we want more active users to join our ecosystem, and as an incentive, we have decided to award 5% of the issue as a share of the support market to those community players who contribute to the market.
+As a Decentralized Autonomous Organization open to the entire network, we want more active users to join our ecosystem, and as an incentive, we have decided to award 4% of the issue as a share of the support market to those community players who contribute to the market.
 
 ### Mobility
 
-When the Metaworld organization publicly issues the Meta-Zodiac NFT, 10% of the issue volume of MW will be invested in liquidity, creating a liquid trading pool of incredible volume. We believe that good liquidity facilitates the player discovery of value, which is important for the development of MW and a key step towards maturity. This will trade for maximum maneuverability space for MW owners.
+When the Metaworld organization publicly issues the Meta-Zodiac NFT, 1% of the issue volume of MW will be invested in liquidity, creating a liquid trading pool of incredible volume. We believe that good liquidity facilitates the player discovery of value, which is important for the development of MW and a key step towards maturity. This will trade for maximum maneuverability space for MW owners.
 
 ### Destruction
 
